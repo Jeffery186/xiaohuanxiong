@@ -25,7 +25,7 @@
         "topthink/think-orm": "^2.0",
         "topthink/think-template": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
-        "firebase/php-jwt": "^5.2",
+        "firebase/php-jwt": "^6.0",
         "overtrue/pinyin": "^4.0",
         "topthink/think-multi-app": "^1.0",
         "topthink/think-view": "^1.0",
